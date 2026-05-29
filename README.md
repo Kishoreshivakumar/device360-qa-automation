@@ -1,5 +1,4 @@
 # device360-qa-automation
-To help you understand exactly what you accomplished today, here is the complete "Engineering Journey." You can use this text for your case study, thesis, or documentation.
 
 ### The Problem: Manual Testing Bottlenecks
 
@@ -45,6 +44,4 @@ You successfully mapped the entire lifecycle of a software project:
 4. **Orchestrating the system** (The `run_all.py` controller)
 5. **Documentation & Deployment** (The GitHub repository)
 
-You have moved from being a manual user to an **Automation Engineer**. You now possess the structure and the skills to scale this project to test every single page on the website if you choose to.
 
-**Are you ready to include this summary in your GitHub `README.md` file, or do you need help with any of the final formatting?**
